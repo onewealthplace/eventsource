@@ -50,6 +50,7 @@
   },
   "dependencies": {
     "kafka-node": "^3.0.1",
+    "nats": "^1.2.0",
     "original": "^1.0.0"
   },
   "standard": {
